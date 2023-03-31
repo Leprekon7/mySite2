@@ -1,0 +1,46 @@
+header{
+    background-color: greenyellow;
+    text-align: center;
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+    text-align: centre;
+}
+ul{
+    color: red;
+    
+}
+h1{
+    font-size: 20px;
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    background-color: green;
+    padding: 50px;
+}
+h3{
+    background-color: rgb(39, 136, 88);
+}
+ol{
+    background-color: red;
+     font-size: 20px;
+}
+
+div{
+  display: flex;
+
+
+}
+div p{
+font-size: 20px;
+padding-left: 30px;
+}
+img{
+    width: 350px;
+    height: 250px;
+}
+
+
+
